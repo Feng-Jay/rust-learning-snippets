@@ -1,0 +1,1 @@
+/Users/ffengjay/Postgraduate/Prepare4Phd/learnRust/ch12/minigrep/target/release/minigrep: /Users/ffengjay/Postgraduate/Prepare4Phd/learnRust/ch12/minigrep/src/lib.rs /Users/ffengjay/Postgraduate/Prepare4Phd/learnRust/ch12/minigrep/src/main.rs
