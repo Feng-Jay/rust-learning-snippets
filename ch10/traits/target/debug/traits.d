@@ -1,1 +1,0 @@
-/Users/ffengjay/Postgraduate/Prepare4Phd/learnRust/ch10/traits/target/debug/traits: /Users/ffengjay/Postgraduate/Prepare4Phd/learnRust/ch10/traits/src/lib.rs /Users/ffengjay/Postgraduate/Prepare4Phd/learnRust/ch10/traits/src/main.rs

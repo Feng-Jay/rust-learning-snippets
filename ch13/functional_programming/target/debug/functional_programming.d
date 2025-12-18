@@ -1,1 +1,0 @@
-/Users/ffengjay/Postgraduate/Prepare4Phd/learnRust/ch13/functional_programming/target/debug/functional_programming: /Users/ffengjay/Postgraduate/Prepare4Phd/learnRust/ch13/functional_programming/src/main.rs
