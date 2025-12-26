@@ -1,0 +1,1 @@
+/Users/ffengjay/Postgraduate/Prepare4Phd/learnRust/ch20/hello_macro/hello_macro_derive/target/debug/libhello_macro_derive.dylib: /Users/ffengjay/Postgraduate/Prepare4Phd/learnRust/ch20/hello_macro/hello_macro_derive/src/lib.rs
